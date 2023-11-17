@@ -13,15 +13,16 @@
 
 - 📝 I regularly write articles on [https://dev.to/kiransm](https://dev.to/kiransm)
 
-- 💬 Ask me about **SCSS,BootStrap,React,JavaScript and 'Accessibility in Web Development'**
+- 💬 Ask me about **SCSS, BootStrap, React,JavaScript and 'Accessibility in Web Development'**
 
 - 📫 How to reach me **smkiran.09@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/5ybds3bf](https://tinyurl.com/5ybds3bf)
-
+<!-- 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
