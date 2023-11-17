@@ -26,9 +26,9 @@ BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kiransm" target="blank"><img align="center" src="./images/dev-dot-to.svg" alt="kiransm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiran-sm" target="blank"><img align="center" src="./images/linkedin.svg" alt="kiran-sm" height="30" width="40" /></a>
-<a href="https://instagram.com/an_incomplete_life" target="blank"><img align="center" src="./images/instagram.svg" alt="an_incomplete_life" height="30" width="40" /></a>
+<a href="https://dev.to/kiransm" target="blank"><img align="center" src="./images/dev-dot-to.svg" alt="dev.to" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kiran-sm" target="blank"><img align="center" src="./images/linkedin.svg" alt="linkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/an_incomplete_life" target="blank"><img align="center" src="./images/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
