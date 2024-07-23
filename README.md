@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [https://tinyurl.com/5ybds3bf](https://tinyurl.com/5ybds3bf)
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/KiranSm-portfolio](https://tinyurl.com/KiranSm-portfolio)
 
 - 📝 I regularly write articles on [https://dev.to/kiransm](https://dev.to/kiransm)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **smkiran.09@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/5ybds3bf](https://tinyurl.com/5ybds3bf)
+- 📄 Know about my experiences [https://tinyurl.com/KiranSm-portfolio](https://tinyurl.com/KiranSm-portfolio)
 <!-- 
 ### Blogs posts
 BLOG-POST-LIST:START 
